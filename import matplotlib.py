@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
-name = "STEEL BOT BOY"
+name = "Star boy of mangolia"
+"
 
 fig, ax = plt.subplots()
 ax.axis('off') 
